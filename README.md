@@ -11,7 +11,9 @@ Finally,  we  summarize  the  strengths  and  weaknesses  for  further  applicat
 
 ## Document Explanation:
 **Date**: 2021-02-05 to 2021-02-09  
-**2021-E-Problem**:  
+
+
+## 2021-E-Problem：
 2021 ICM  
 Problem E: Re-Optimizing Food Systems  
 Recent events have shown us that our global food system is unstable even in the parts of the world that it generally serves well. These instabilities are partly a result of our current global system of massive national and international food producers and distributers. This food system allows for food to be produced and distributed relatively cheaply and efficiently, thus suggesting this current model prioritizes efficiency and profitability.  
@@ -22,10 +24,10 @@ The International Comestibles Management (ICM) Committee challenges your team to
 
 Regardless of how globally or locally you focus, food systems are complex. Some questions you should consider include, but are not limited to:   
 
-**What happens if a food system is optimized for equity and sustainability? How would that system differ from the current one? How long would such a system take to implement?** 
-**What are the benefits and costs of changing the priorities of a food system? When would they occur? How do these benefits and costs differ between developed and developing countries?**
-**Once you have developed your food system model, apply your model to at least one developed and one developing country to support your findings.**
-**Discuss the scalability (to larger or smaller food systems) and adaptability (to other regions) of your model.**  
+**What happens if a food system is optimized for equity and sustainability? How would that system differ from the current one? How long would such a system take to implement?**   
+**What are the benefits and costs of changing the priorities of a food system? When would they occur? How do these benefits and costs differ between developed and developing countries?**  
+**Once you have developed your food system model, apply your model to at least one developed and one developing country to support your findings.**  
+**Discuss the scalability (to larger or smaller food systems) and adaptability (to other regions) of your model.**    
 The ICM Committee, an interdisciplinary and diverse group from the fields of environmental science, nutrition policy and science, government, and mathematics, looks forward to your final report. Your PDF solution of no more than 25 total pages should include:   
 One-page Summary Sheet.   
 Table of Contents.   
